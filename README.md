@@ -1,5 +1,5 @@
 # Smart-Management-Routine-App (In React Native)
-aka Karna Hai
+aka KarnaHai
 
 It is a cross-platform app to optimize productivity in one’s daily schedule. 
 Specially it is a Muslim oriented app which also lies focus on prayers reminders, 
