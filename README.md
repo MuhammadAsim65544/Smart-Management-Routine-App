@@ -1,5 +1,4 @@
-# Smart-Management-Routine-App (React Native)
-
+<h1 align="center">Smart Management Routine App</h1>
 <h1>Intoduction</h1>
 <h3>
 Also Known as KarnaHai
@@ -15,3 +14,8 @@ schedule provided the mobile phone will switch to Quiet or DND (Do Not Disturb) 
 The core funionality of the app that it sends the automatic pretyped user message reply on the missed call between two time slites.
 And between time slots, it also reminds the remninder and enable the Do Not Disturb mode if it is allowed.
 </h4>
+
+
+
+https://user-images.githubusercontent.com/68283718/187664072-659a0f67-7a59-49a7-b650-2f8cedfe900c.mp4
+
